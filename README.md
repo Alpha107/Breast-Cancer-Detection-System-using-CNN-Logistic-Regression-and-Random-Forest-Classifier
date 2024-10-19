@@ -106,6 +106,9 @@ The dataset is split into 80% training and 20% testing data using stratified sam
 
 ![Screenshot 2024-09-29 112511](https://github.com/user-attachments/assets/89e567fd-51ea-4387-8a40-732eff0ce67f)
 
+**For CNN:** 
+Accuracy: 98.246%
+
 
 **6. Prediction:**
 
@@ -143,6 +146,11 @@ else:
 
 
 • Confusion Matrix: Visualized for each classifier to show true positive/negative and false positive/negative predictions.
+
+• Learning Curve for CNN:
+
+![output1](https://github.com/user-attachments/assets/f787f119-00f0-48d6-9969-af9cc7967db1)
+![output2](https://github.com/user-attachments/assets/d83ba0ef-bd7c-41a1-ae44-f451cf944ed3)
 
 ## Future Improvements
 
