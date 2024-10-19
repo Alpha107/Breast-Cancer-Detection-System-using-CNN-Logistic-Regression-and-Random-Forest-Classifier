@@ -1,6 +1,6 @@
 # Breast Cancer Detection System
 
-This project implements a breast cancer detection system using machine learning techniques. It explores three different classifiers—Decision Tree, Logistic Regression, and Random Forest—to classify patients as either having cancer (Malignant) or not having cancer (Benign), based on various input features.
+This project implements a breast cancer detection system using machine learning techniques. It explores three different classifiers—Decision Tree, Logistic Regression, Random Forest and CNN—to classify patients as either having cancer (Malignant) or not having cancer (Benign), based on various input features.
 
 # Project Overview
 The dataset used is from the Breast Cancer Diagnostic Dataset, which contains features calculated from a digitized image of a fine needle aspirate (FNA) of a breast mass. These features describe the characteristics of the cell nuclei present in the image.
@@ -12,6 +12,8 @@ The dataset used is from the Breast Cancer Diagnostic Dataset, which contains fe
 • Logistic Regression Classifier
 
 • Random Forest Classifier
+
+• CNN
 
 ## Metrics Evaluated:
 • Accuracy
@@ -90,11 +92,13 @@ The dataset is split into 80% training and 20% testing data using stratified sam
 
 **3. Models:**
 
-• Decision Tree Classifier: This simple model fits the data with an accuracy of X%.
+• Decision Tree Classifier
 
-• Logistic Regression Classifier: Achieves an accuracy of Y% on the test set.
+• Logistic Regression Classifier
 
-• Random Forest Classifier: The highest-performing model with an accuracy of Z%.
+• Random Forest Classifier
+
+• CNN
 
 **4. Evaluation:**
 
